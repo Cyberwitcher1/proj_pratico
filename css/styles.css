@@ -1,8 +1,16 @@
 body {
     background-color: lightblue;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 table {
     background-color: aliceblue;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+th {
+    padding: 5px;
+    text-decoration: underline;
 }
